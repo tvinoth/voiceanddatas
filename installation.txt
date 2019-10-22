@@ -1,0 +1,17 @@
+python -m pip install pyAudio
+python -m pip uninstall pyAudio
+
+sudo apt-get install multimedia-jack
+sudo dpkg-reconfigure -p high jackd2
+
+pip install wolframalpha
+
+  pip install --upgrade pip setuptools
+
+
+------------------------install package force -------------------------
+
+I used
+pip install --ignore-installed six
+or more generally
+pip install --ignore-installed ${PACKAGE_NAME}

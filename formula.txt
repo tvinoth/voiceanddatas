@@ -1,0 +1,49 @@
+https://stackoverflow.com/questions/17001389/pandas-resample-documentation
+https://www.datacamp.com/community/tutorials/predicting-employee-churn-python
+
+https://www.datacamp.com/community/tutorials/predicting-employee-churn-python - multi graph in single graph
+https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/ - python code declared for line by line
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/ - work time series
+https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+
+https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-time-series-solution-skillpower-time-series-datafest-2017/	 
+
+https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3
+
+https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-visualization-with-python-3
+
+https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries/examples
+https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
+a = 1.5+0(1) = 1.5
+a = 1.5+0(2) = 1.5
+a = 1.5+0(3) = 1.5
+
+b = 0+1.5(1) = 1.5
+b = 0+1.5(2) = 3
+b = 0+1.5(2) = 4.5
+
+c = 1+0.5(1) = 1.5
+c = 1+0.5(2) = 2.0
+c = 1+0.5(3) = 2.5
+
+
+Linear regression formula:
+
+x =[1,2,3]
+y=[1,2,3]
+@= 1;
+@1 = 1.5;
+find = @+@1x
+1 = 1+1.5(1) = 2.5
+1 = 1+1.5(2) = 4
+1 = 1+1.5(3) = 5.5
+
+cost formula :     notation 
+		  m
+j = 1/2m ----
+		\ 
+		/ (h@(x)^(i)-y^(i))^2
+		----
+		i=1
